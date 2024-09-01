@@ -2,7 +2,7 @@
 https://www.youtube.com/playlist?list=PLjS7DS1TxzJIkIgR8AR6Lu0deOOs0AQuv  
 
 # aula atual
-8
+10
 
 # anotações interessantes
 - dúvidas recorrer ao chat, forum ou a documentação
@@ -12,3 +12,6 @@ https://www.youtube.com/playlist?list=PLjS7DS1TxzJIkIgR8AR6Lu0deOOs0AQuv
 - d-grid --> estilização para o filho ocupar 100% da linha
 - para aumentar o tamanho da tela --> display-1 e por aí vai assim como o h1
 - lead serve para complementar
+
+# imagens grátis
+- https://pixabay.com/pt/
