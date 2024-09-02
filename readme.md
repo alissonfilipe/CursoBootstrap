@@ -2,7 +2,7 @@
 https://www.youtube.com/playlist?list=PLjS7DS1TxzJIkIgR8AR6Lu0deOOs0AQuv  
 
 # aula atual
-14
+16 
 
 # anotações interessantes
 - dúvidas recorrer ao chat, forum ou a documentação
@@ -28,6 +28,9 @@ https://www.youtube.com/playlist?list=PLjS7DS1TxzJIkIgR8AR6Lu0deOOs0AQuv
 - código para ativar os popevers deve ficar depois do código do js
 - `data-bs-placement="right"` --> se ele detectar que não tem eespaço ele não vai posicionar `container mt-5`
 - tooltip é interessante de ser usado no projeto mas não acho que vai ser necessário
+- `carousel` vai ser de extrema relevância na hora do desenvolvimento do site
+- sobre o `carousel` ele pode ser usado para mostrar as imagens
+- `opacity-75` vai ser interessante de usar
 
 # imagens grátis
 - https://pixabay.com/pt/
