@@ -21,6 +21,13 @@ https://www.youtube.com/playlist?list=PLjS7DS1TxzJIkIgR8AR6Lu0deOOs0AQuv
 - `modal-xl` --> aumenta o tamanho da caixa de diálogo
 - `modal-fullscreen` --> para ocupar a tela inteira
 - `modal-dialog-centered` --> centraliza a caixa de diálogo
+- popover são cliques em um botão
+- bom para assumir informação sobre demanda
+- por padrão o modal são bloqueados
+- código para ativas os popoves tem na documentação
+- código para ativar os popevers deve ficar depois do código do js
+- `data-bs-placement="right"` --> se ele detectar que não tem eespaço ele não vai posicionar `container mt-5`
+- tooltip é interessante de ser usado no projeto mas não acho que vai ser necessário
 
 # imagens grátis
 - https://pixabay.com/pt/
