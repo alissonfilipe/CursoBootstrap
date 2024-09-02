@@ -2,7 +2,7 @@
 https://www.youtube.com/playlist?list=PLjS7DS1TxzJIkIgR8AR6Lu0deOOs0AQuv  
 
 # aula atual
-13
+14
 
 # anotações interessantes
 - dúvidas recorrer ao chat, forum ou a documentação
@@ -15,6 +15,12 @@ https://www.youtube.com/playlist?list=PLjS7DS1TxzJIkIgR8AR6Lu0deOOs0AQuv
 - lead serve para complementar
 - no meu projeto do TCC vou precisar usar o card
 - my-5 espaçamento do elemento anterior
+- componente modal é uma caixa de diálogo
+- modal é intereçante para single web aplication
+- no modal nós temos duas partes
+- `modal-xl` --> aumenta o tamanho da caixa de diálogo
+- `modal-fullscreen` --> para ocupar a tela inteira
+- `modal-dialog-centered` --> centraliza a caixa de diálogo
 
 # imagens grátis
 - https://pixabay.com/pt/
