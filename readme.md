@@ -2,7 +2,7 @@
 https://www.youtube.com/playlist?list=PLjS7DS1TxzJIkIgR8AR6Lu0deOOs0AQuv  
 
 # aula atual
-16 
+17 vai ter um projeto específico para ela
 
 # anotações interessantes
 - dúvidas recorrer ao chat, forum ou a documentação
@@ -31,6 +31,13 @@ https://www.youtube.com/playlist?list=PLjS7DS1TxzJIkIgR8AR6Lu0deOOs0AQuv
 - `carousel` vai ser de extrema relevância na hora do desenvolvimento do site
 - sobre o `carousel` ele pode ser usado para mostrar as imagens
 - `opacity-75` vai ser interessante de usar
+- dentro da documentação do bootstrapvoc~e vai ter exemplos 
+- `exemplos` na parte de cima da documentaçãos
+- quando reduz de mais o tamanho da nav barra ele reduz para o `menu de sanduiche`
+- `height="70"` no própria html pode ser usado para definir o tamanho do elemento
+- se especificar id não coloca hashtag
+- calsse colapse é resposanvel por ver o tamanho da tela
+- antes que eu esqueça precisarei de usar as paletas de coras na hora do desenvolvimento do site
 
 # imagens grátis
 - https://pixabay.com/pt/
